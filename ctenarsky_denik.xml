@@ -1,0 +1,897 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type = "text/xsl" href = "ctenarsky_denik.xsl"?>
+<knihy>
+<kniha>
+<id>1</id>
+<autor>Různí autoři</autor>
+<nazev>Básně</nazev>
+<poznamka/>
+<citat>
+<text lom="0">
+<p>Uschlo mi tvoje kapradí. </p>
+<p>Jak je ti? </p>
+<p>Mně se stýská </p>
+<p>a těžko mě kdo pohladí. </p>
+<p>Uschlo mi tvoje kapradí, </p>
+<p>to mám z těch bojů zblízka. </p>
+<p>
+<br/>
+</p>
+<p>Uschla mi kytka ve džbáně. </p>
+<p>Jak je ti? </p>
+<p>Já jsem sama. </p>
+<p>Sama a dravcům na ráně. </p>
+<p>Uschla mi kytka ve džbáně, </p>
+<p>uschla mi pod rukama.</p>
+</text>
+<strana/>
+<nadpis>Kamila: Kapradí </nadpis>
+<komentar>Mistrovský kousek neznámé básnířky. Netuším, kde jsem tuto báseň našel.</komentar>
+</citat>
+<citat>
+<nadpis>Gabriela Licková: Praha</nadpis>
+<text>
+<p>Praha ta hříšná žena</p>
+<p>pode mnou tu leží,</p>
+<p>nějaký šílenec</p>
+<p>po nábřeží běží.</p>
+</text>
+<strana/>
+<komentar>Spolužačka z geologie</komentar>
+<datum>2022-05-22 18:18:26</datum>
+</citat>
+<citace/>
+<url/>
+</kniha>
+<kniha>
+<id>2</id>
+<autor>Regnerová Kristýna</autor>
+<nazev>Životopis Zdenky Hlávkové (1843-1902)</nazev>
+<citace>REGNEROVÁ, Kristýna. \textit{Životopis Zdenky Hlávkové
+    (1843-1902)} [online]. České Budějovice, 2018 [cit.
+    2022-03-23]. Dostupné z: https://theses.cz/id/xt509e/.
+    Diplomová práce. Jihočeská univerzita v Českých Budějovicích,
+    Filozofická fakulta. Vedoucí práce Mgr. Zdeněk Bezecný,
+    Ph.D.</citace>
+<url>https://theses.cz/id/xt509e/</url>
+<poznamka>Životopis manželky Josefa Hlávka zajímavě a pečlivě
+    napsaný.</poznamka>
+<citat>
+<nadpis>První žena od Boha, druhá od lidí, třetí od
+      ďábla</nadpis>
+<komentar>České pořekladlo o tom, že jak člověk stárne, tak
+      jsou vztahy stále složitější...</komentar>
+</citat>
+<citat>
+<nadpis>Josef Hlávka sice také vzdělání pro dívky sám
+      podporoval, především finančně, ale spíše...</nadpis>
+<text>
+<p>“... huboval velice na nynější ženské pokolení, že nic
+        nepracuje ... že všecko vyučování v oboru ženských pracích
+        na školách žádných plodů nepřineslo, že nynější slečinky
+        myslí jen na fintění a koketování.“</p>
+</text>
+</citat>
+<citat>
+<nadpis>Kovářova i Náprstkova kobyla chodí bosa</nadpis>
+<text>
+<p>I když Náprstek přesvědčoval veřejnost o nákupu
+        přístrojů pro domácnost, které šetří čas, u Halánků se
+        vařilo na otevřeném ohništi v černé kuchyni.</p>
+</text>
+</citat>
+<citat>
+<nadpis>Mladší/starší stoličná</nadpis>
+<text>
+<p>Osoba, která měla na starosti výčep</p>
+</text>
+</citat>
+<citat>
+<nadpis>Od 18 let výše je žena stará panna.</nadpis>
+<text>
+<p>&quot;Dostalo-li se dívce vzdělání v literních předmětech,
+        hudbě, francouzštině a kreslení byla považována v 15 letech
+        za vychovanou a následovalo její uvedení do společnosti a
+        samozřejmě také sňatek. Za určitý limit pro vdavky byly
+        považovány tři roky od uvedení dívky do společnosti. Poté
+        spadala do kategorie &quot;starých panen&quot;, to napsala Karolína
+        Světlá. U muže z měšťanského prostředí se nejčastější
+        věková hranice pro uzavření sňatku pohybovala okolo věku
+        třiceti let. Sám Matěj Havelka dcerám četl o astronomii a
+        vykládal jim astronomické zákony, učil je o silách
+        centrifugálních a centripetálních.</p>
+</text>
+</citat>
+<citat>
+<nadpis>Josef Hlávka předal své manželce jako svatební dar
+      spořitelní knížku</nadpis>
+<text>
+<p>Josef Hlávka předal své manželce jako svatební dar
+        spořitelní knížku, na kterou uložil vklad 500 zlatých. Tyto
+        peníze mu Zdenka na konci svého života ve své závěti
+        vrátila zpět s tím, aby tento obnos použil k založení
+        nadace na varhanické škole pro učitelku nebo učitele. Pro
+        srovnání: Během své kariéry do roku 1885 si Zdenak Hlávková
+        uspořila 15 000 zlatých.</p>
+</text>
+</citat>
+</kniha>
+<kniha>
+<id>3</id>
+<autor>Bláha L., Šrek F.</autor>
+<nazev>Suroviny pro učební obor Cukrář, Cukrářka</nazev>
+<citace>Bláha, Ludvík a Šrek, František. Suroviny pro učební
+    obor Cukrář, Cukrářka. 3., aktualiz. vyd. Praha: Informatorium,
+    1999. 213 s., [4] s. barev. obr. příl. ISBN
+    80-86073-44-0.</citace>
+<poznamka>Boží dar z Hulína či spíš Bystřice pod Hostýnem
+    2022-05-14</poznamka>
+<citat>
+<nadpis>Lepek</nadpis>
+<text lom="1">
+<p>Prolaminy - gluteniny patří mezi jednoduché bílkoviny.
+        Pšeničný gliadin a glutenin, jejichž směs nazýváme
+        lepkem.</p>
+</text>
+<strana>15</strana>
+<komentar/>
+</citat>
+<citat>
+<text>
+<p>Hlavními jsou loje, sádlo, máslo. Kapalné živočišné tuky   jsou tuky z ryb nebo z mořských savců, tzv. trány. </p>
+<p/>
+</text>
+<strana>17</strana>
+<nadpis>Živočišné tuky jsou většinou pevného  skupenství </nadpis>
+<komentar>Trány - to jsem nikdy neslyšel</komentar>
+</citat>
+<citat>
+<nadpis>Perník</nadpis>
+<text>
+<p>Při výrobě perníku je důležitá fruktóza coby invertní
+        cukr, neboť pro svou hygroskopičnost a neschopnost za
+        normálních podmínek krystalizovat ovlivňuje vláčnost
+        perníkových výrobků.</p>
+</text>
+<strana>18</strana>
+</citat>
+<citat>
+<nadpis>Dělení olejů</nadpis>
+<text>
+<p>Podle toho, jak rychle adují kyslík a tím houstnou,
+        rozdělují se oleje:</p>
+<p>
+<b>nevysychavé</b>
+     - olivový, podzemnicový, ricinový
+
+</p>
+<p>slabě vysychavé - mandlový, řepkový</p>
+<p>polovysychavé - slunečnicový, makový, bavlníkový</p>
+<p>vysychavé - ořechový, lněný, konopný (fermež)</p>
+</text>
+<strana>17</strana>
+<komentar>proto mšice se stříkají řepkovým olejem - on na
+      nich nevysychá</komentar>
+</citat>
+<citat>
+<nadpis>Pravotočivost</nadpis>
+<text>
+<p>Roztok látky stáčí polarizované světlo doprava</p>
+</text>
+<strana>18</strana>
+</citat>
+<citat>
+<nadpis>Škrob je složená látka</nadpis>
+<text>
+<p>z amylázy, rozpustné v horké vodě, a z amylopektinu,
+        nerozpustného v horké vodě.</p>
+</text>
+<strana>20</strana>
+</citat>
+<citat>
+<text>
+<p>vápník 800 mg </p>
+<p>fosfor 1,5 g</p>
+</text>
+<strana>20</strana>
+<nadpis>Denní spotřeba </nadpis>
+<komentar/>
+</citat>
+<citat>
+<nadpis>Enzymy</nadpis>
+<text>
+<p>Nejrychleji pracují enzymy při teplotě 40-60°C, 80°C se
+        zastavuje jejich činnost, při 100°C se rozkládají</p>
+</text>
+<strana>28</strana>
+</citat>
+<citat>
+<text>
+<p>Hydrolázy - pomocí aktivní vody hydrolyticky štěpí   složité komplexy. Sacharáza, maltáza, laktáza,   amygdaláza... </p>
+<p>Desmolázy - přesmykují atomy vodíku a uhlíku.   Alkoholáza, -zymáza: mění jednoduché cukry na líh a CO2 kvašení.</p>
+</text>
+<strana>29</strana>
+<nadpis>Druhy enzymů </nadpis>
+<komentar/>
+</citat>
+<url/>
+<citat>
+<text>
+<p>Ve slinách je škrob ptyalin, který škroby štěpí na   jednodušší. Jejich doštěpení probíhá v tenkém střevě   působením enzymu amylázy. </p>
+<p/>
+</text>
+<strana>29</strana>
+<nadpis>Sliny a škrob </nadpis>
+<komentar>O tom kdysi na ZŠ mluvil učitel Schön - tenkrát mě  to zaujalo. Když podržíme v ústech suchou kůrku, tak ta pocitově sládne, protože enzymy štěpí škroby na jednodušší a sladší curky.</komentar>
+</citat>
+<citat>
+<text>
+<p>Optimální teplota pro baktérie a plísně je 30-40°C. Pod   -18°C už nefungují.</p>
+</text>
+<strana>36</strana>
+<nadpis>Teplota</nadpis>
+<komentar/>
+</citat>
+<citat>
+<text lom="0">
+<p>Anabióza - prostředí nevhodné pro bakterie - moc sladké,   kyselé, studené, alkoholické ap. </p>
+<p>Abióza - usmrcování bakterií: </p>
+<p>Pasterizace 65-85°C - spory přežívají </p>
+<p>Sterilizace - nad 100°C - ničí i spory </p>
+<p>Uperizace - prudké zahřátí na 150°C a okamžité   zchlazení. Sterilita výrobku až 60 dní. </p>
+<p>Cenoanabióza - konzerování pomocí jiných organismů   kvašení (jogurt, pivo) </p>
+<p/>
+</text>
+<strana>41</strana>
+<nadpis>Způsoby konzervace </nadpis>
+<komentar>Proto zavařené sklenice za čas začnou kvasit, protože jsou v nich spory. Proto je lepší je uchovávat v temnu a chladnu - spory se hůře probouzejí.</komentar>
+</citat>
+<citat>
+<nadpis>Dva druhy umělých sladidel</nadpis>
+<text>
+<p>A) Procházející trávicím systémem beze změny (sladké, ale bez výživy - sacharin, usal, cyklamáty)</p>
+<p>B) Nahrazující disacharid Sacharózu jiným cukrem (Sorbit - sladidlo z obilného škrobu 60% Sacharózy)</p>
+</text>
+<strana>55</strana>
+<komentar/>
+</citat>
+<citat>
+<nadpis>Mletí na vysoko a na plocho</nadpis>
+<text>
+<p>Na vysoko se dělá pšenice a jiné obilí, které má otruby. Napřed se udělá šrot a na hrubo se to mele a prosívá - obilí se odmílá od měkkého škrobu a otruby zústávají. Čím vícekrát se mele (přitahují se válce - 7-8x), tím mouka tmavne, protože se do ní dostává více časteček otrub. </p>
+<p>Mletí naplocho, například žito se mele na jedno mletí požadované hrubosti. To je bez otrub.</p>
+</text>
+<strana>64</strana>
+<komentar>Vymletá mouka je tmavší, plná otrub. Málo vymletá mouka je čistý škrob, proto je bílá.</komentar>
+</citat>
+<citat>
+<nadpis>testy kvality mouky</nadpis>
+<text>
+<p>Vymleté mouky jsou nahořklé.</p>
+<p>Mouky mlété z porostlého obilí jsou narůžovělé.</p>
+<p>Když sevřeme mouku v hrsti musí se pak rozpadnout - pokud dělá hrudku, tak je moc vlhká.</p>
+<p>Obsah a kvalita lepku - podle toho, kolik pojme vody (50-60%=dobrá mouka)</p>
+<p>Vaznost - nad sítkem odplavíme rozpustný škrob, zůstane lepek (až 50%). Z toho pak děláme váleček 3cm dlouhý, který by měl jít natáhnout jako žvejkačka do 8-12cm.</p>
+</text>
+<strana>69</strana>
+<komentar>detaily viz kniha</komentar>
+</citat>
+<citat>
+<nadpis>Jak se vyrábí škrob (např. na pudink)?</nadpis>
+<text>
+<p>Základem je fakt, že ve studené vodě se škrob nerozpouští, ale usazuje se u dna. Rozemelou brambory a properou studenou vodou. Profiltrují a nechají stát. Škrob padá ke dnu, odebírá čistí, proplachuje.  Centrifuguje a pak suší při teplotách do 40°C, aby nezmazovatěl (krupicová kaše). Ten se rozemíla na škrobou moučku - základ pudinku.</p>
+<p>Kukuřičný škrob je podobná technologie jen se mu musí pomoci oxidem siřičitým, a pak zase se neutralizuje NaHCO3.</p>
+</text>
+<strana>74</strana>
+<komentar/>
+</citat>
+<citat>
+<nadpis>Mazovatění škrobu</nadpis>
+<text>
+<p>škrob ve studené vodě se nerozpouští, v teplé bobtná, v horké mazovatí.</p>
+<p>Maz je lepkavý gelový škrobový maz. </p>
+<p>Škroby jsou složeniny dvou látek: Amyláza a Amylopektin. Amyláza se ve vodě rozpustí, ale Amylopektin vytváří máz.</p>
+<p>Bramborový š. mazovatí při 65°C, ale po schladnutí zase řídne (reverzibilní reakce).</p>
+<p>Kukuřičný š. mazovatí při 75° - trvale rosolovitý.</p>
+<p>Pšeničný - trvalý máz od 85°</p>
+<p>Rýžový 80° trvalý </p>
+<p>Reakce škrobu na jód - barví na modro.</p>
+<p/>
+<p>Žloutkový krém do pečiva, zahušťování zmrzlin, omáček...</p>
+<p>šlehané hmoty - kombinace mouky a více škrobu - společně se přesijí</p>
+</text>
+<strana>77</strana>
+<komentar/>
+<datum>2022-05-22 09:28:10</datum>
+</citat>
+<citat>
+<nadpis>Škrobový sirup</nadpis>
+<text>
+<p>šrob se štěpí buď hydrolýzou nebo enzymy. Hydrolýza 120°C tlak až 300kPa 1 hodina.</p>
+<p>Vznikne bezbarvá tekutina 70% sušiny - maltoza, glukoza dextrin. </p>
+<p/>
+<p>Nevysychají a zústavají měkké (oříšková kokosová náplň, fondán).</p>
+<p>brání cukernatění sacharozy</p>
+<p>Malá sladkost - zahušťuje, ale nesladí.</p>
+</text>
+<strana>79</strana>
+<komentar/>
+<datum>2022-05-22 09:39:21</datum>
+</citat>
+<citat>
+<nadpis>Vejce</nadpis>
+<text>
+<p>čím větší bublina, tím starší vejce - vysychá, klesáním teploty smršťuje.</p>
+<p>11% skořápka, 57% bílek, 32%žloudek.</p>
+<p>Domácí chov 240 vajec za rok (drůbežárna 300)</p>
+<p>Velikosti a značení </p>
+<p>S (special - zelené značení) &gt;56g  - tříděná výběrová čestvá - vzácnost</p>
+<p>Tříděná čerstvá nekonzervovaná - červené značení - Týden a písmeno</p>
+<p>E &gt;64g</p>
+<p>A 59-63</p>
+<p>B 54-59</p>
+<p>C 50-54</p>
+<p>D 43-50</p>
+<p>V&lt;43</p>
+<p>M - střední 53-63</p>
+<p>teplota min 5°</p>
+<p/>
+<p>Konzervace:</p>
+<p>Chladírenská max 0,5°C -černá barva </p>
+<p>Ve vápeném roztoku. - jasně modrá barva značení</p>
+<p/>
+<p>Testování vajec</p>
+<p>prosvícení ovoskopem (žloutek uprostred), proťukávání (prasklá skořápka), prudký pohyby (uvolněný vnitřek),  ponoření do 10%NaCl, nové klesne, staré vyschlé padá ke dnu.</p>
+<p/>
+<p>Dnešní značení </p>
+<p>X-YY-ZZZZ, napr. 2CZ9721</p>
+<p>X způsob chovu - 1 volný výběh, 2 v halách, 3 v klecích, 0 ekologické chovy</p>
+<p>YY - CZ země původu</p>
+<p>ZZZZ registrační číslo chovu</p>
+</text>
+<strana>84</strana>
+<komentar/>
+<datum>2022-05-22 10:00:59</datum>
+</citat>
+<citat>
+<nadpis>Zkažená vejce</nadpis>
+<text>
+<p>Pukavec - plynný rozklad - bakterie, sirovodík, amoniak, SO2, H2. Bouchaj. Vejce je neprůsvitné. </p>
+<p>Bílá, červená, černá hniloba - různé druhy, nepoužitelné. </p>
+<p>Zatuchlá vejce - smrdí, ale bez plynu.</p>
+<p/>
+<p>Konzervace - ucpava pory ve skorapce a desinfikuje</p>
+<p>práškové vápno (Ca(OH)2)-  firmy KOncentrace tak, az začne tvorit na hladine &quot;ledovou&quot; krustu CaCO3. 15°C max, 25 cm pod hladinou v bednach</p>
+<p/>
+<p>vodní sklo ap. - domacnost, 10%roztok Na2SiO3</p>
+<p>Vodní sklo reaguje se vzduchem s CO2 a tvrdne asi vznika Na2CO3 + SiO2</p>
+<p>Pri konzervovani se vejce k sobe slepila. </p>
+<p/>
+<p>Sušená vejce vydrží až rok.</p>
+</text>
+<strana/>
+<komentar>92</komentar>
+<datum>2022-05-22 19:34:09</datum>
+</citat>
+<citat>
+<nadpis>Mléko</nadpis>
+<text>
+<p>&quot;Mléko je ideální potravinou, neboť obsahuje všechny důležité živiny ke zdárnému vývinu organismu savců, a tedy i člověka&quot; a tedy i Klimeše!</p>
+<p/>
+<p>3,6% bílkoviny </p>
+<p>3,8% tuk</p>
+<p>4,9% cukr</p>
+<p>0,7% minerální látky</p>
+<p>voda</p>
+<p>drobet vitamínů</p>
+<p/>
+<p>Bílkoviny - především Kasein (vápník, fosfor), bílý, 3%, koloidní roztok, ale vyloučit jde syřidly, kyselinami, zkysáním mléka. Sraženina kaseinu je tvaroch.</p>
+<p/>
+<p>Albumin 0,5% - nereaguje na kyseliny, ale teplotou 65%, škraloup, krupičky na dně či stěnách nádoby.</p>
+<p/>
+<p>Globulin - nepatrně - 0,1%</p>
+<p/>
+<p>Vitamín A v tuku - nažloutlá barva</p>
+<p/>
+<p>Laktoza - bakteriemi kvasí na kyselinou mléčnou a ta sráží kasein</p>
+</text>
+<strana>95</strana>
+<komentar>Svatá pravda!</komentar>
+<datum>2022-05-24 07:24:16</datum>
+</citat>
+<citat>
+<text>
+<p>Vysoká pasterizace - nad 85°C na pár sekund</p>
+<p>Dlouhodobá pasterizace nac 65° 30 minut</p>
+<p>šetrná pasterizace 72-74°C po dobu 30 s na deskovém pastéru</p>
+<p>uperizace 150°C na 1s  s okamžitým schlazením - velká trvanlivost</p>
+<p/>
+<p>po pasterizace se mléko okamžitě chladí na 5°C</p>
+<p>po takové pasterizaci jsou zachovány spory.</p>
+<p/>
+<p>sterilizace 100°C - převaření - mizí i spory, ale i chuť mléka.</p>
+<p/>
+<p>Egalizace - odstředí mléko a zpět se něco smetany vrátí, aby to mělo normovanou hodnotu.</p>
+<p/>
+<p>Homogenizace mléka - mléko na 70°C tlak 17,7 až 19,6 MPa se protlačuje jemnými tryskami - z tuku vzniknou jemné kuličky - nestráží se na stěnách</p>
+<p/>
+<p>Při úpravě mléka v mlékárnách nneí dovoleno přidávat jakékjoli přísady. </p>
+<p>Velkoodběratelé konvice 25 l či cisterny.</p>
+</text>
+<nadpis>Pasterizace</nadpis>
+<strana>98</strana>
+<komentar/>
+<datum>2022-05-24 21:58:00</datum>
+</citat>
+</kniha>
+<kniha>
+<id>4</id>
+<autor>Míček Libor</autor>
+<nazev>Sebevýchova a duševní zdraví</nazev>
+<citat>
+<nadpis>Kurzy smíchu</nadpis>
+<text>
+<p>Před lety prý pařížský lékař dr. P. Wachet pořádal
+        praktické skupinové kurzy smíchu. Po krátkém úvadu a
+        několika vysvětleních nařídil svým posluchačům zatemnit
+        okno sálu a pak spustil gramofon. Z desky zněly salvy
+        bouřlivého smíchu ve všech škálách a způsobech. Lidé v sále
+        se jeden po druhém připojovali k veselí. Zpočátku bývali
+        trochu nervózní, ale brzy se dávali strhnout, až se nakonec
+        dlouho a hlasitě smál celý sál. Po takové léčebné poceduře
+        se účastníci seance vraceli domů odragovaní a
+        uklidnění.</p>
+</text>
+<strana>170</strana>
+<komentar>Tedy ještě dlouho před dr. Nešporem.</komentar>
+</citat>
+<citat>
+<nadpis>Psychogenní smrt</nadpis>
+<text>
+<p>V literatuře je popsáno několim případů, kdy intenzivní
+        negativní představy (a jimi vyvulaný strach a úzkost)
+        přivodili člověku smrt. Je např. popsán případ muže, který
+        byl omylem zavřen do chadírenského vozu a po poměrně krátké
+        době v něm byl nalezen mrtev. Když vůz otevřeli, zjistilo
+        se, že chladící zařízení vůbec nefungovalo a že nešťastník
+        zemřel vlastně jen v důsledku své představy. (Hárdi, 1972,
+        75; Hárdi, J.&quot; Psychologie péče o nemocného. Praha,
+        Avicenum 1972)</p>
+</text>
+<strana>62</strana>
+</citat>
+<citat>
+<nadpis>Sebevražda jako touha po novém začátku
+      (reboot)</nadpis>
+<text>
+<p>Sebevražda je výrazem podvědomé tendence skončit zde s
+        tímto způsobem života a začít znova.</p>
+</text>
+<strana>149</strana>
+</citat>
+<citat>
+<nadpis>Rasismus za socialismu neexistoval</nadpis>
+<text lom="1">
+<p>Příslušnost k proskribovaným rasovým skupinám (černoši,
+        cikáni) hrála a leckde dosud hrajě také roli. Tyto příiny
+        pocitu méněcennosti jsou v nasší společnosti vyloučeny.
+        Neznáme rasové předsudky a nikdo u nás není diskriminován z
+        rasových důvodů. Existuje-li snad přesto nějaká řídká
+        vyjímka z tohoto pravidla, má postižený jedinec plné právo
+        si stěžovat a zjednat nápravu.</p>
+</text>
+<komentar>V roce 1988 jsem tento citát okomentoval slovem:
+      Blbec</komentar>
+<strana>147</strana>
+</citat>
+<citat>
+<nadpis>Frustrační tolerance (Rosenzweig)</nadpis>
+<text>
+<p>Frustrační tolerance je definována jako kapacita
+        individua vzdorovat frustrujícím podnětům bez chyb v
+        psychobiologickém přizpůsobení, tj. bez upadnutí do
+        nepřiměřených způsobů reakcí.</p>
+</text>
+<strana>130</strana>
+</citat>
+<citace>Míček Libor: Sebevýchova a duševní zdraví. Státní pedagogické nakladatelství, Praha, 1988</citace>
+<poznamka>Toto jsem studoval opravdu roku 1988.</poznamka>
+<url/>
+<url/>
+</kniha>
+<kniha>
+<id>5</id>
+<autor>Štefan, Jiří; Hladík, Jiří</autor>
+<nazev>Soudní lékařství a zdravotnicko-právní otázky</nazev>
+<citace>Štefan, Jiří a Hladík, Jiří. Soudní lékařství a
+    zdravotnicko-právní otázky. 1. vyd. Praha: Karolinum, 1996. 183
+    s. ISBN 80-7184-283-4.</citace>
+<poznamka>
+    /home/jerom/desktop/C_E_T_B_A/Skripta-soudni-lekarstvi.pdf</poznamka>
+<url/>
+<citat>
+<nadpis>Alveolus</nadpis>
+<text>
+<p>alveolus - váček, malá nádobka, dutinka V lékařské
+        literatuře má dva dost odlišné významy: plicní sklípek
+        zubní lůžko</p>
+</text>
+<strana/>
+<komentar/>
+</citat>
+<citat>
+<nadpis>Potápění</nadpis>
+<text>
+<p>Vlivem zvýšené hladiny dusíku na CNS dochází od 40 m
+        hloubky k hloubkové euforii až k narkose. Naopak vdechování
+        čistého kyslíku umožňuje potápění jen v nepatrné hloubce,
+        poněvadž čistý kyslík v hloubce větší než 7 m je pro CNS
+        toxický. Přimíšení stlačeného vzduchu nebo helia k čistému
+        kyslíku zvyšuje možnosti potápění až do hloubky 70 m.</p>
+</text>
+<strana>46</strana>
+<komentar/>
+</citat>
+<citat>
+<nadpis>Létání - výšková smrt</nadpis>
+<text>
+<p>Prudký pokles tlaku např. při výstupu malého letadla
+        nevybaveného tlakovým systémem vede k akutní výškové
+        hypoxii. Dochází ke značnému zhoršení výkonu, rozhodovací a
+        reakční schopnosti a k poruchám vědomí. Nad kritickým
+        prahem 7 000 m vzniká život ohrožující poškození CNS se
+        ztrátou vědomí, křečemi a nastává výšková smrt.</p>
+<p>Při pomalém poklesu tlaku vzniká chronická hypoxie,
+        která se projevuje jako horská nemoc. Typické je oslabení
+        vůle, poruchy spánku, ztráta chuti, dušnost, tachykardie,
+        závrať, zvracení, bolesti hlavy, apatie, ale může se
+        projevit i jako euforie podobná alkoholovému opojení.
+        Euforie u pilota doprovázená zvýšenou odvahou a sníženou
+        opatrností může být příčinou havárie letadla.</p>
+</text>
+<strana>46</strana>
+<komentar/>
+</citat>
+<citat>
+<nadpis>Ženy jsou odolné proti záření</nadpis>
+<text lom="1">
+<p>Jedinci mužského pohlaví jsou radiosenzitivnější stejně
+        jako jedinci mladší a v poslední třetině života.</p>
+</text>
+<strana>47</strana>
+<komentar/>
+</citat>
+<citat>
+<nadpis>Šedý zákal (katarakta)</nadpis>
+<text/>
+<strana/>
+<komentar/>
+</citat>
+<citat>
+<nadpis>Dva druhy udušení</nadpis>
+<text>
+<p>Při asfyktické formě nedostatku kyslíku způsobené zabráněním dýchání (např. škrcení) je omezen nejen přívod kyslíku, ale i vydechování oxidu uhličitého, který se hromadí v krvi. Oxid uhličitý dráždí dýchací centrum, dechová i tepová frekvence se zvyšují, stoupá krevní tlak, krevní cukr, množství fosfatidů. Subjektivně vzniká pocit nedostatku dechu, dyspnoe a úzkost před udušením. </p>
+<p>Při neasfyktické formě nedostatku kyslíku (dýchá, ale v atmosféře není kyslík) je omezeno vnitřní nebo tkáňové dýchání. Při těchto stavech chybí subjektivní nepříjemné pocity. Častá je euforie.</p>
+<p>Chybění subjektivních varovných příznaků při anoxii např. při otravě oxidem uhelnatým zabraňuje možnosti uvědomění si hrozícího nebezpečí. Průběh celého dušení trvá 5-10 minut, někdy i méně.</p>
+<p>Při úplném uzávěru dýchacích cest dochází během 1/2 minuty k dyspnoi, po 1-2 minutách k bezvědomí a ke křečím. Srdeční činnost může být ještě až 1/4 hodiny zachována. Irreversibilní změny mozku nastávají po 8-10 minutách. Za 4-5 minut trvání asfyxie dochází k insuficienci srdce.</p>
+<p>U kojenců a u všech osob, které jsou podchlazeny jako např. při topení ve studené vodě, může být doba znovuoživení s úplnou obnovou všech funkcí mnohem delší, i za 30-45 minut.</p>
+</text>
+<strana>34</strana>
+<komentar/>
+</citat>
+</kniha>
+<kniha>
+<id>6</id>
+<autor>Zátopek Emil</autor>
+<nazev>Můj trening a závodění</nazev>
+<citace>Zátopek, Emil, Matoušek, Vladimír, ed. a Mašek, Otakar,
+    ed. Můj trening a závodění. 1. vyd. Praha: Státní tělovýchovné
+    nakladatelství, 1955. 92, [v] s., [33] s. obr. příl.</citace>
+<poznamka/>
+<url/>
+<citat>
+<nadpis>Začátky</nadpis>
+<text>
+<p>Až do 14 let jsem žil u rodičů v Kopřivnici. Otec byl
+        stolař. To se ví, že jsem s kluky hrával kopanou, chodívali
+        jsme se koupat, v zimě lyžovali a bruslili. Ale na nějaké
+        opravdové sportování jsem vůbec nepomyslil.</p>
+<p>Teprve v posledním roce svého »mladomužování«, jak jsme
+        říkávali, když mně bylo již 19 let, nebylo vyhnutí. Přišel
+        vychovatel a nařídil: »Musíš běžet! «</p>
+<p>Nadšení pro takový běh nebylo u nikoho celkem žádné. U
+        mne pak už vůbec žádné. Chlapci obyčejně dobíhali jen k
+        první odbočce silnice, kde již na ně čekali kamarádi s
+        kabáty. Tak jich z těch 150 startujících doběhlo do cíle
+        sotva třicet.</p>
+<p>Vychovatelem družiny nástrojařů byl známý vícebojař
+        Antonín Kučera z Brna. Ten začal propagovat lehkou atletiku
+        nejlepším způsobem – osobním příkladem. Strhl několik
+        chlapců. Začali žít sportovněji.</p>
+<p>Stále jsem spekuloval, jak bych se tomu závodu vyhnul. V
+        neděli, v den běhu, jsem udělal poslední pokus. »Ulil« jsem
+        se do čítárny, kde jsem chtěl v klidu přečkat celou tu
+        »slávu«. Ale měl jsem smůlu. Velitel světnice mě tam
+        objevil. Řádně mi vynadal a přímo vyhnal na start.</p>
+<p>Tak jsem stál prvně v životě na startovní čáře. A tam to
+        do mne vjelo. Tož, když mě k tomu již donutili, chtěl jsem
+        jim dokázat, že všechno to jejich trénování je pro kočku a
+        že je to právě jen – frajeřina, řekl jsem si, že poběžím
+        tak, abych je porazil.</p>
+<p>Sotva nás odstartovali, vyběhl jsem jako divý. Hned jsem
+        byl mezi prvními, mezi těmi z Kučerovy party, šlo mi to
+        dobře. Ale v polovině trati, asi v 700 metrech, mi spadl
+        hřebínek. Nohy začaly slábnout, špatně se mi dýchalo. V tom
+        okamžiku vyrazil Krupička a vzdaloval se nám. Myslil jsem,
+        že se mnou bude konec. Síly i zlost byly spotřebovány. Ale
+        sebral jsem se a doběhl jako druhý. Byl jsem zklamán a
+        nechápal jsem, proč mne ostatní chlapci tak se slávou
+        vítají. Zřejmě nevěděli, že jsem chtěl – vyhrát.</p>
+<p>Asi za týden nato jsem se potkal s Kučerovými svěřenci.
+        Šli zase trénovat. Zvali mne, abych šel s nimi. To mě
+        překvapilo. Zvali mě právě ti, které jsem v neděli porazil.
+        Dal jsem si říci a odešel jsem s nimi na malé hřiště u
+        škol. Přišel tam i jejich vychovatel. Po prvé jsem
+        prožíval, co to ten trening vlastně je. Jen lehké
+        rozcvičení a asi 3 km klusání, pravidelným, volným tempem.
+        Byl to pro mne velký zážitek.</p>
+</text>
+<strana/>
+<komentar/>
+</citat>
+</kniha>
+<kniha>
+<id>7</id>
+<autor>Karel N. (N.N.)</autor>
+<nazev>Kolik váží vaše tělo?</nazev>
+<citace/>
+<poznamka/>
+<url>https://www.dama.cz/clanek/kolik-vazi-vase-telo</url>
+<citat>
+<nadpis>Kolik váží jednotlivé části těla?</nadpis>
+<text>
+<p>Kolik váží jednotlivé části těla:</p>
+<p>hlava - 4.5 kg</p>
+<p>paže - 7 kg</p>
+<p>ruce - 1.4 kg</p>
+<p>nohy - 26 kg</p>
+<p>trup - 29 kg</p>
+<p>pánev - 11 kg</p>
+<p>krk - 0.9 kg </p>
+<p>Kolik váží jednotlivé orgány:</p>
+<p>mozek - 1.2 kg</p>
+<p>srdce - 350 gramů</p>
+<p>plíce - 820 gramů</p>
+<p>játra - 1.5 kg</p>
+<p>krev, voda a další tekutiny - 46 kg</p>
+<p>svaly - 23.5 kg</p>
+<p>kůže - 5.5 kg</p>
+<p>kosti - 9.5 kg</p>
+<p>ledviny - 450 gramů</p>
+<p>mužský penis - 60 gramů</p>
+</text>
+<strana/>
+<komentar>Imunitní systém prý váží přibližně jako játra, tzn. 1,5 kg</komentar>
+</citat>
+</kniha>
+<kniha>
+<id>8</id>
+<autor>Moldanová Dobrava</autor>
+<nazev>Naše příjmení (1983)</nazev>
+<citace/>
+<poznamka/>
+<url/>
+<citat>
+<nadpis>Etymologie</nadpis>
+<text>
+<p>Krpálek - švec příštipkář</p>
+<p>Krpat - šít boty</p>
+<p>Grmela - kudla, starý nůž, přen. nešika</p>
+<p>Ksás - renezanční kalhotky</p>
+<p>Bohdálek - čáp</p>
+<p>Duka - děva</p>
+<p>Halík - Hälbing, půlgroš</p>
+<p>Havel - Gallus - obyvatel Galie</p>
+<p>Kep Kepka - lůno</p>
+<p>Hrma ? něco vulgárního</p>
+<p>Brambora - ne od brambor, ale Branibor!</p>
+</text>
+<strana/>
+<komentar/>
+<datum>2022-05-20 07:11:13</datum>
+</citat>
+<citat>
+<nadpis>Původ příjmení</nadpis>
+<text>
+<p>Josef II. 1780 - uzákonil trvalost a dědičnost příjmení pro armádu a úřady</p>
+<p/>
+<p>Prvních deset příjmení dle četnosti:</p>
+<p>Novák, Svoboda, Novotný, Dvořák, Černý, Procházka, Kučera, Veselý, Horák, Němec</p>
+<p>dále snad Zeman</p>
+</text>
+<strana/>
+<komentar/>
+<datum>2022-05-20 07:15:52</datum>
+</citat>
+</kniha>
+<kniha>
+<id>9</id>
+<autor>Jerome Klapka Jerome</autor>
+<nazev>Tři muži ve člunu o psu nemluvě</nazev>
+<citace/>
+<poznamka/>
+<url/>
+<citat>
+<text>
+<p>Jednou jsme si s sebou vzali vařič petrolejový, ale to &quot;již nikdy více!&quot; Ten týden jsme měli dojem, jako bychom žili v krámě s petrolejem. Plechovka s tím petrolejem totiž tekla. A když odněkud teče petrolej, to si teda nepřejte. My jsme tu plechovku měli v samé špici lodi, a ten petrolej tekl odtamtud až ke kormidlu a cestou se vsákl do celé lodi a do všeho, co v ní bylo, a natekl do řeky a prostoupil celou scenérii a zamořil ovzduší. Někdy foukal západní petrolejový vítr, jindy východní petrolejový vítr; ale ať už přicházel od sněhů Arktidy nebo se zrodil v nehostinné písečné poušti, k nám vždycky doletěl stejně prosycený vůní petroleje.</p>
+<p>A náš petrolej tekl dál a poničil i západy slunce; dokonce i měsíční paprsky určitě už zaváněly petrolejem.</p>
+<p>V Marlow jsme se mu pokusili utéci. Loď jsme nechali u mostu a přes město jsme se vydali pěšky, abychom tomu petroleji unikli; táhl se však za námi. Za chvilku ho bylo plné město. Pustili jsme se přes hřbitov, ale tam zřejmě nebožtíky pochovávali v petroleji. I Hlavní třída smrděla petrolejem; divli jsme se, jak tam lidi dokážou bydlet. A tak jsme ušli kilometry a kilometry po silnici k Birminghamu; ale ani to nebylo nic platné, i ten venkov se koupal v petroleji.</p>
+<p>Na konci tohohle výletu jsme se o půlnoci všichni sešli na opuštěné pláni pod takovým olysalým dubem a zakleli jsme se strašlivou přísahou (kleli jsme kvůli tomu neřádu samozřejmě celý týden, ale jenom tak normálně, středostavovsky, kdežto teď to byl úkon slavnostní) - zakleli jsme se tedy strašlivou přísahou, že si už jakživi nevezmeme na loď petrolej.</p>
+</text>
+<strana/>
+<komentar/>
+<datum>2022-05-22 16:47:16</datum>
+<nadpis>Petrolejový svět </nadpis>
+</citat>
+</kniha>
+<kniha>
+<id>10</id>
+<autor>Cimrman Jára</autor>
+<nazev>Hospoda na mýtince</nazev>
+<citace/>
+<poznamka/>
+<url/>
+<citat>
+<nadpis>Záludnost hesel</nadpis>
+<text>
+<p>Naštěstí přišel otec o celé synkovo jmění tím, že je uložil do místního peněžního ústavu na heslo “Dobro je prisjetiti se da prividno prav put prema cilju predstavlja u stvari pravodlivo krivudanje”, které zapomněl.</p>
+</text>
+<strana/>
+<komentar/>
+<datum>2022-05-22 16:49:54</datum>
+<citat/>
+</citat>
+<citace/>
+<url/>
+<poznamka/>
+</kniha>
+<kniha>
+<id>11</id>
+<autor>Pešek Ladislav</autor>
+<nazev>Smrt sira Arthura</nazev>
+<citace/>
+<poznamka/>
+<url/>
+<citat>
+<nadpis>Konev</nadpis>
+<text>
+<p>Jonathan: Kolik je hodin?</p>
+<p>James: Jedna.</p>
+<p>Jonathan: Už?</p>
+<p>James: Ještě je čas?</p>
+<p>Jonathan: Nevím, nevím. Willi se už od dvanácti hodin prodírá rákosím.</p>
+<p>James: Ještě je čas. Prodírá se i lekníny?</p>
+<p>Jonathan: Když myslíš, ale už je jedna. Ano i lekníny.</p>
+<p>James: Lekníny jsou bílé a husté, pravda?</p>
+<p>Jonathan: No právě, aby to stihl.</p>
+<p>James: Stihne to.</p>
+<p>Jonathan: Včera to stihl. Dnes by to měl stihnout taky, ale...</p>
+<p>James: Ale?</p>
+<p>Jonathan: Ale ukradl mi konev.</p>
+<p>James: Byla plná vody?</p>
+<p>Jonathan: Bohužel.</p>
+<p>James: Lávku tedy nepřekročí.</p>
+<p>Jonathan: Obávám se, že ne. Konev ho převáží.</p>
+</text>
+<strana/>
+<komentar/>
+<datum>2022-05-22 16:53:27</datum>
+</citat>
+<citace/>
+<url/>
+<poznamka/>
+</kniha>
+<kniha>
+<id>12</id>
+<autor>Musil Robert</autor>
+<nazev>Muž bez vlastností</nazev>
+<citace>Robert Musil: Muž bez vlastností (I), Odeon Praha 1980,1. kapitola</citace>
+<poznamka>knihu má Ivo Budil</poznamka>
+<url/>
+<citat>
+<nadpis>Krásný srpnový den</nadpis>
+<text>
+<p>Nad Atlantikem se rozkládalo barometrické minimum; postupovalo na východ směrem k maximu, prostírajícímu se nad Ruskem, a nejevilo dosud sklon vyhnout se mu na sever. Izotermy a izotery konaly svou povinnost. Teplota vzduchu byla v náležitém poměru k střední roční teplotě, k teplotě nejchladnějšího a nejteplejšího měsíce a k neperiodickému měsíčnímu kolísání teploty. Východ a západ Slunce, Měsíce, světelné změny Měsíce, Venuše a Saturnova prstence a mnohé jiné významné úkazy byly v souladu s předpovědí v astronomických ročenkách. Vodní pára měla svou největší rozpínavost a vlhkost vzduchu byla nepatrná. Jedním slovem, které tuto skutečnost velmi dobře vystihuje, třebaže je poněkud staromodní: Byl krásný srpnový den roku 1913.</p>
+</text>
+<strana/>
+<komentar/>
+<datum>2022-05-22 17:07:20</datum>
+</citat>
+<url/>
+</kniha>
+<kniha>
+<id>13</id>
+<autor>Adams Douglas</autor>
+<nazev>Stopařův průvodce po galaxii</nazev>
+<citace>Adams Douglas: Stopařův průvodce po galaxii, Odeon, 1991, str.45</citace>
+<poznamka/>
+<url/>
+<citat>
+<nadpis>Babylonská rybka</nadpis>
+<text>
+<p>Babylonská rybka je malá, žlutá, trochu se podobá pijavici. Je to snad nejpodivnější tvor ve vesmíru. Když si strčíte babylonskou rybku do ucha, okamžitě rozumíte čemukoliv, ať je to řečeno jakoukoliv formou jazyka. </p>
+<p>Skutečnost, že se něco tak nepochopitelně užitečného mohlo vyvinout pouhou náhodou, je tak bizarně nepravděpodobnou shodou okolností, že někteří myslitelé se rozhnodli považovat to zakonečný a nezvratný důkaz Boží neexistence. </p>
+<p>Argumentace vypadá následovně: ,Odmítám prokazovat svou existenci,' praví Bůh, ,protože důkaz je v rozporu s vírou a bez víry nejsem nic.' </p>
+<p>,Jenže,' namítne člověk, ,babylónská rybka, to byla smrtelná chyba. Nemohla se přece vyvinout náhodou. To je důkaz, že existuješ, a tudíž, podle tvého vlastního tvrzení, neexistuješ. Q.E.D.' </p>
+<p>,Ach jo, to mě nenapadlo,' řekne Bůh a promptně zmizí v obláčku logiky. </p>
+<p>,To to ale bylo snadné,' libuje si člověk, a protože ještě nemá dost, dokáže, že černé je bílé, a na nejbližším přechodu ho zajejde auto. </p>
+<p>Většina předních teologů tvrdí, že celý tenhle spor je naprostá ptákovina. To ovšem nezabránilo Úlonu Coilufidovi, aby nevydělal slušné jmění na knize Bůh to může zabalit, v níž použil této debaty jako ústředního motivu.</p>
+</text>
+<strana/>
+<komentar/>
+<datum>2022-05-22 18:13:59</datum>
+</citat>
+<url/>
+<poznamka/>
+<url/>
+<poznamka/>
+</kniha>
+<kniha>
+<id>14</id>
+<autor>AAA Nápověda Pokusy</autor>
+<nazev>Nápověda k programu a prostor na zkoušení nových funkcí</nazev>
+<citace/>
+<poznamka/>
+<url/>
+<citat>
+<text>
+<p>V textu je možno používat několik vybraných HTML tagů: </p>
+<p>
+       Zalomení  
+
+<br/>
+     řádky, například v  básních. 
+
+</p>
+<p> Část textu může být </p>
+<p>
+<b>tučně - b</b>
+      ,  
+
+</p>
+<p>
+<i>kurzívou - i</i>
+      ,  
+
+</p>
+<p>
+<u>podrtržena - u</u>
+      ,  
+
+</p>
+<p>
+<mark>žlutě - mark</mark>
+      , funguje i 
+
+<pre>pre na programovy kod</pre>
+     .
+
+</p>
+</text>
+<strana/>
+<datum>2022-05-27 08:00:57</datum>
+<nadpis>Zvýrazňování textu pomocí HTML značek  </nadpis>
+<komentar>Stále je to ve stavu zrodu, není to 100% spolehlive</komentar>
+</citat>
+<citat>
+<text>
+<p>Kawai KDP80</p>
+<p>už se nevyrábí.</p>
+</text>
+<nadpis>Dobrý elektrický klavír u adventistů v České Třebové</nadpis>
+<strana/>
+<komentar/>
+<datum>2022-05-31 12:50:28</datum>
+</citat>
+</kniha>
+</knihy>
